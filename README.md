@@ -122,20 +122,3 @@ And the next line.<p>
 
 <h1>Code Blocks</h1>
 
-<p>Putting code blocks (cb) in a list.<br>
-note. cb are normally indented four spaces(1 tab).<br>
-In a list, eight spaces(2 tabs).<br>
-Ex.</p>
-<ol>
-    <li>Open the file.</li>
-    <li>Find the following code block in line 21.
-    <pre><code>&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Test&lt;/title&gt;
-  &lt;/head&gt;
-&lt;/html&gt;
-    </code></pre>
-  </li>
-    </li>
-    <li>Update the title to change the name of your website.</li>
-</ol>
