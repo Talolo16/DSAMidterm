@@ -1,6 +1,5 @@
 
-heading level 1, line below text
-=============================
+<h1>heading level 1, line below text</h1>
 
 <p>paragraph to na may space <p\>
 
@@ -49,8 +48,7 @@ And the next line.<p>
     <p>another line because it looks better this way
 </blockquote>
 
-Order and Unordered List Practice
-===
+<h1>Order and Unordered List Practice</h1>
 
 <p>Ordered List:
 <ol>
