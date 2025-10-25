@@ -13,3 +13,5 @@ And the next line.<p\>
 And the next line.<p>
 
 <p>try lang ng <strong>bold</strong> text. <p\>
+
+<p>try lang ng <em>italicized</em> text. <p\>
