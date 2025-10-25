@@ -21,8 +21,19 @@ And the next line.<p>
 <p>try lang ulit, <strong><em>bold and italicized</strong></em> text. <p\>
 
 <blockquote>
-<p>try lang blockquote<p\>
+    <p>try lang blockquote.<p\>
 </blockquote>
 
-<blockquote><p>try lang 2 lines ng blockquote.<br>2nd line.<p\></blockquote>
+<blockquote>
+    <p>try lang 2 lines ng blockquote.<br>
+    2nd line.<p\>
+</blockquote>
+
+<blockquote>
+    <p>try lang ng nested blockquote.</p>
+    <blockquote>
+        <p>nested blockquote.</p>
+    </blockquote>
+</blockquote>
+
 
