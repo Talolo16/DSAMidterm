@@ -52,3 +52,10 @@ And the next line.<p>
 Order and Unordered List Practice
 ===
 
+<ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+    <li>Fourth item</li>
+</ol>
+
