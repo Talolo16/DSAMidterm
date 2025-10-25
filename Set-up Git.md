@@ -1,2 +1,2 @@
-<hr1>How to set up Git</hr1>
+<h1>How to set up Git</h1>
 
