@@ -115,9 +115,9 @@ Order and Unordered List Practice
 <ol>
     <li>First Item</li>
     <ul><blockquote>
-    <li><strong>Bold Indented Item</strong></li>
-    <li><em>Italicized Indented Item</em></li>
-    <li><strong><em>Bold and Italicized Indented Item</strong></em></li>
+        <li><strong>Bold Indented Item</strong></li>
+        <li><em>Italicized Indented Item</em></li>
+        <li><strong><em>Bold and Italicized Indented Item</strong></em></li>
     </blockquote></ul>
     <li>Second Item</li>
 </ol>
