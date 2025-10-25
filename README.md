@@ -129,10 +129,13 @@ Ex.</p>
 <ol>
     <li>Open the file.</li>
     <li>Find the following code block in line 21.
-            <html>
-                <head>
-                    <title>Test</title>
-                </head>
+    <pre><code>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Test&lt;/title&gt;
+  &lt;/head&gt;
+&lt;/html&gt;
+    </code></pre>
+  </li>
     </li>
     <li>Update the title to change the name of your website.</li>
 </ol>
