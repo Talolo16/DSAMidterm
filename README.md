@@ -36,7 +36,7 @@ And the next line.<p>
     </blockquote>
     <p>...<p\>
 </blockquote>
-<br>
+
 <blockquote>
     <p>putting everything together</p>
     <blockquote>
