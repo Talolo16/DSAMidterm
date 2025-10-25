@@ -126,8 +126,6 @@ And the next line.<p>
 
 <h1>Horizontal rule</h1>
 
-<p>Try lang ng horizontal rule.<br>
-<br>
----
-<br>
+<p>Try lang ng horizontal rule.
+<hr>
 After horizontal rule.</p>
