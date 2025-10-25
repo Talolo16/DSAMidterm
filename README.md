@@ -120,5 +120,5 @@ And the next line.<p>
     <li>Second Item</li>
 </ol>
 
-<h1>Code Blocks</h1>
+<h1>Code</h1>
 
