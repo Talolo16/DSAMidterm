@@ -35,8 +35,8 @@ And the next line.<p>
         <p>nested blockquote.<p\>
     </blockquote>
     <p>...<p\>
-<blockquote\>
-
+</blockquote>
+<br>
 <blockquote>
     <p>putting everything together</p>
     <blockquote>
