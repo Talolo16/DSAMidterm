@@ -128,10 +128,11 @@ In a list, eight spaces(2 tabs).<br>
 Ex.</p>
 <ol>
     <li>Open the file.</li>
-    <li>Find the following code block in line 21.</li>
+    <li>Find the following code block in line 21.
             <html>
                 <head>
                     <title>Test</title>
                 </head>
+    </li>
     <li>Update the title to change the name of your website.</li>
 </ol>
