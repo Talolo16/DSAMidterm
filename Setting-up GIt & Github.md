@@ -10,3 +10,7 @@
     ![](pictures/Installer.png)
 
 4. Run the installer, then press next until it starts downloading.
+
+---
+
+# How to Set-Up Github
