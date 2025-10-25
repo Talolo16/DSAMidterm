@@ -96,3 +96,17 @@ Order and Unordered List Practice
     <li>Fourth Item</li>
 </ul>
 </p>
+
+<p>Putting both together:
+<ol>
+    <li>First Item</li>
+    <ul>
+        <li>Indented Item</li>
+        <li>Indented Item</li>
+        <li>Indented Item</li>
+    </ul>
+    <li>Second Item</li>
+    <li>Third Item</li>
+    <li>Fourth Item</li>
+</ol>
+</p>
