@@ -122,5 +122,5 @@ And the next line.<p>
 
 <h1>Code</h1>
 
-<p>Trying to denote a phrase to code: <code>nano</code>.</p>
+<p>Trying to denote a phrase to code: <code>this is a code</code>.</p>
 
