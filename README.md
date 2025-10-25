@@ -20,6 +20,4 @@ And the next line.<p>
 
 <p>try lang ulit, <strong><em>bold and italicized</strong></em> text. <p\>
 
-<blockquote>
-<p>try lang blockquote<p\>
-</blockquote>
+<blockquote><p>try lang blockquote<p\></blockquote>
