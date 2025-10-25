@@ -73,3 +73,12 @@ Order and Unordered List Practice
     <li>Fourth Item</li>
 </ol>
 </p>
+
+<p>Unordered List:
+<ul>
+    <li>First Item</li>
+    <li>Second Item</li>
+    <li>Third Item</li>
+    <li>Fourth Item</li>
+</ul>
+</p>
