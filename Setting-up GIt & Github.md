@@ -27,7 +27,17 @@ In order to sync your activities from Visual Studio code to your chosen Github r
     ![](pictures/command%20prompt.png)
 
 4. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
+
+    ![](pictures/new.png)
+
+    ![](/pictures/create%20repository.png)
+
 5. Back to VS Code. On the bottom right part of VS code, click the drop down bottom beside the "+" icon and click "Git Bash"
+
+    ![](/pictures/+%20Icon.png)
+
+    ![](/pictures/git%20bash.png)
+
 6. For source control purposes, paste each line separately in the terminal. Change the text with "" to your name and email address.
 
     git config --global user.name "Your Name"
@@ -39,3 +49,5 @@ In order to sync your activities from Visual Studio code to your chosen Github r
     git config --global alias.co checkout
 
     git init
+
+7. Now, when you
