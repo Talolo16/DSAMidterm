@@ -41,9 +41,9 @@ And the next line.<p>
     <p>putting everything together</p>
     <blockquote>
         <p><strong>bold</strong><br>
-        linebreak<br>
+        <br>
         <em>italic</em><br>
-        linebreak<br>
+        <br>
         <em><strong>bold and italic</strong></em></p>
     </blockquote>
     <p>another line because it looks better this way
