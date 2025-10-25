@@ -17,3 +17,5 @@ And the next line.<p>
 <p>try lang ng <em>italicized</em> text. <p\>
 
 <p>try lang both <em><strong>italicized and bold</strong></em> text. <p\>
+
+<p>try lang ulit, <strong><em>bold and italicized</strong><em> text. <p\>
