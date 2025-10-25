@@ -114,11 +114,11 @@ Order and Unordered List Practice
 <p>Adding elements in a list:
 <ol>
     <li>First Item</li>
-    <blockquote>
-    <ul><strong>Bold Indented Item</strong></ul>
-    <ul><em>Italicized Indented Item</em></ul>
-    <ul><strong><em>Bold and Italicized Indented Item</strong></em></ul>
-    </blockquote>
+    <ul><blockquote>
+    <li><strong>Bold Indented Item</strong></li>
+    <li><em>Italicized Indented Item</em></li>
+    <li><strong><em>Bold and Italicized Indented Item</strong></em></li>
+    </blockquote></ul>
     <li>Second Item</li>
 </ol>
 
