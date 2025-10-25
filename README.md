@@ -30,10 +30,10 @@ And the next line.<p>
 </blockquote>
 
 <blockquote>
-    <p>try lang ng nested blockquote.</p>
+    <p>try lang ng nested blockquote.<p\>
     <blockquote>
-        <p>nested blockquote.</p>
-    </blockquote>
-</blockquote>
+        <p>nested blockquote.<p\>
+    <blockquote\>
+<blockquote\>
 
 
