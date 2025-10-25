@@ -19,7 +19,13 @@ In order to sync your activities from Visual Studio code to your chosen Github r
 
 1. Create a new folder and open it.
 2. Click the directory on top of the folder and type "cmd" to open the command prompt on your designed folder.
+
+    ![](pictures/cmd.png)
+
 3. Type "code ." in the command promt to open visual studio code.
+
+    ![](pictures/command%20prompt.png)
+
 4. Go to your github account and on your home page, click "New" located on top left of your page. Name your repository and click create. Keep the repository public so people can view it.
 5. Back to VS Code. On the bottom right part of VS code, click the drop down bottom beside the "+" icon and click "Git Bash"
 6. For source control purposes, paste each line separately in the terminal. Change the text with "" to your name and email address.
