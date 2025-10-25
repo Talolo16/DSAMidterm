@@ -63,7 +63,7 @@ In order to sync your activities from Visual Studio code to your chosen Github r
 
     These tabs will open, select features and no scope.
 
-    ![](pictures/feat.png.png)
+    ![](pictures/feat.png)
 
     ![](pictures/noscope.png)
 
