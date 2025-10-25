@@ -131,4 +131,4 @@ After horizontal rule.</p>
 
 <h1>Links</h1>
 
-<p>Try lang ng link:(https://www.markdownguide.org/basic-syntax/#code-blocks).</p>
+<p>Try lang ng link: <a href="https://www.markdownguide.org/basic-syntax/#code-blocks">Markdown Guide</a>.</p>
