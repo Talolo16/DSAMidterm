@@ -114,10 +114,8 @@ Order and Unordered List Practice
 <p>Adding elements in a list:
 <ol>
     <li>First Item</li>
-    <ul>
-    <blockquote>
+    <ul><blockquote>
     trying blockquote in a ul
-    </blockquote>
-    </ul>
+    </blockquote></ul>
     <li>Second Item</li>
 </ol>
