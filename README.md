@@ -124,3 +124,10 @@ And the next line.<p>
 
 <p>Trying to denote a phrase to code: <code>this is a code</code>.</p>
 
+<h1>Horizontal rule</h1>
+
+<p>Try lang ng horizontal rule.<br>
+<br>
+---
+<br>
+After horizontal rule.</p>
