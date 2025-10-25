@@ -12,4 +12,4 @@ And the next line.<p\>
 <p>First line with the HTML tag after.<br>
 And the next line.<p>
 
-<p>try lang ng <strong>bold<strong\> text. <p\>
+<p>try lang ng <strong>bold</strong> text. <p\>
