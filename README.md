@@ -33,8 +33,8 @@ And the next line.<p>
     <p>try lang ng nested blockquote.<p\>
     <blockquote>
         <p>nested blockquote.<p\>
-    <p>...<p\>
     <blockquote\>
+    <p>...<p\>
 <blockquote\>
 
 
