@@ -1,5 +1,5 @@
 
-heading level 1 line below text
+heading level 1, line below text
 =============================
 
 <p>paragraph to na may space <p\>
@@ -36,5 +36,17 @@ And the next line.<p>
     </blockquote>
     <p>...<p\>
 <blockquote\>
+
+<blockquote>
+    <p>putting everything together</p>
+    <blockquote>
+        <p><strong>bold</strong><br>
+        linebreak<br>
+        <em>italic</em><br>
+        linebreak<br>
+        <em><strong>bold and italic</strong></em></p>
+    </blockquote>
+    <p>another line because it looks better this way
+</blockquote>
 
 
