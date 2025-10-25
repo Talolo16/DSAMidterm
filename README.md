@@ -114,8 +114,9 @@ Order and Unordered List Practice
 <p>Adding elements in a list:
 <ol>
     <li>First Item</li>
-    <ul><blockquote>
-    trying blockquote in a ul
-    </blockquote></ul>
+    <blockquote>
+    <ul>Indented Item</ul>
+    <ul>Indented Item</ul>
+    </blockquote>
     <li>Second Item</li>
 </ol>
